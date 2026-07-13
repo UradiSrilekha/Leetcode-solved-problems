@@ -27,4 +27,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0018-4sum/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
