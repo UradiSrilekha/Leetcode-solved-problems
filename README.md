@@ -26,6 +26,7 @@
 | [0011-container-with-most-water](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -34,6 +35,7 @@
 | [0015-3sum](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
