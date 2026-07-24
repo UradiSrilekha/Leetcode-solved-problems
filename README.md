@@ -28,6 +28,7 @@
 | [0018-4sum](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0031-next-permutation/) | Medium |
 | [0053-maximum-subarray](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Two Pointers
@@ -39,6 +40,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0031-next-permutation/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
