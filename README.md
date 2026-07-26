@@ -12,6 +12,7 @@
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0013-roman-to-integer/) | Easy |
+| [0029-divide-two-integers](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0029-divide-two-integers/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -95,4 +96,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0053-maximum-subarray/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0029-divide-two-integers](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0029-divide-two-integers/) | Medium |
 <!---LeetCode Topics End-->
