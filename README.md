@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0013-roman-to-integer/) | Easy |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,6 +22,7 @@
 | [0012-integer-to-roman](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +81,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
