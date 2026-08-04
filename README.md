@@ -8,6 +8,7 @@
 | [0012-integer-to-roman](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@
 | [0065-valid-number](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0067-add-binary/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -89,6 +91,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0053-maximum-subarray/) | Medium |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +105,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
