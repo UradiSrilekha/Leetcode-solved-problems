@@ -51,6 +51,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0090-subsets-ii/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3731-find-missing-elements](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3731-find-missing-elements/) | Easy |
@@ -134,6 +135,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0053-maximum-subarray/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
