@@ -150,4 +150,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0131-palindrome-partitioning/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3310-remove-methods-from-project/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3310-remove-methods-from-project/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3310-remove-methods-from-project/) | Medium |
 <!---LeetCode Topics End-->
