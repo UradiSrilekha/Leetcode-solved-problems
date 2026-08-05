@@ -45,6 +45,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0031-next-permutation/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -162,4 +163,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3310-remove-methods-from-project](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3310-remove-methods-from-project/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
