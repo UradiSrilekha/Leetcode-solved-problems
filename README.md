@@ -18,6 +18,7 @@
 | [0029-divide-two-integers](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0029-divide-two-integers/) | Medium |
 | [0043-multiply-strings](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0067-add-binary/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
@@ -179,4 +180,8 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
