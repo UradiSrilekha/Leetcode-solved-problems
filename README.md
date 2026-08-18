@@ -10,6 +10,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3731-find-missing-elements](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
@@ -69,6 +70,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1563-stone-game-v](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2029-stone-game-ix/) | Medium |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
