@@ -25,6 +25,7 @@
 | [1406-stone-game-iii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2029-stone-game-ix/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -75,6 +76,7 @@
 | [1563-stone-game-v](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2029-stone-game-ix/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3731-find-missing-elements/) | Easy |
@@ -121,6 +123,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -178,6 +181,7 @@
 | [0067-add-binary](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0067-add-binary/) | Easy |
 | [0090-subsets-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0090-subsets-ii/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -220,6 +224,7 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,6 +232,7 @@
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
