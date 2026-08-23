@@ -24,6 +24,7 @@
 | [0067-add-binary](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0067-add-binary/) | Easy |
 | [1406-stone-game-iii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2029-stone-game-ix/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -48,6 +49,7 @@
 | [0067-add-binary](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0067-add-binary/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [1927-sum-game](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1927-sum-game/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -159,6 +161,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1927-sum-game](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2029-stone-game-ix/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -245,6 +248,7 @@
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
