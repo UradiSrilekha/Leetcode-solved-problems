@@ -74,6 +74,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0040-combination-sum-ii/) | Medium |
 | [0047-permutations-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0047-permutations-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -226,6 +227,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0040-combination-sum-ii/) | Medium |
 | [0047-permutations-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0047-permutations-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0131-palindrome-partitioning/) | Medium |
