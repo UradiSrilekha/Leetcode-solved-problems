@@ -81,6 +81,7 @@
 | [0088-merge-sorted-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0090-subsets-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0216-combination-sum-iii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0216-combination-sum-iii/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -231,6 +232,7 @@
 | [0047-permutations-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0047-permutations-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0216-combination-sum-iii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0216-combination-sum-iii/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
