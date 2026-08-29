@@ -24,6 +24,7 @@
 | [0013-roman-to-integer](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0029-divide-two-integers/) | Medium |
 | [0043-multiply-strings](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0043-multiply-strings/) | Medium |
+| [0060-permutation-sequence](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0060-permutation-sequence/) | Hard |
 | [0067-add-binary](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0067-add-binary/) | Easy |
 | [1406-stone-game-iii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1563-stone-game-v/) | Hard |
@@ -140,6 +141,7 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0060-permutation-sequence](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0060-permutation-sequence/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
