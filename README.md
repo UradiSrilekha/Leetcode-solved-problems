@@ -136,6 +136,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0237-delete-node-in-a-linked-list](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
