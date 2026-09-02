@@ -56,6 +56,7 @@
 | [0058-length-of-last-word](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0058-length-of-last-word/) | Easy |
 | [0065-valid-number](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0067-add-binary/) | Easy |
+| [0079-word-search](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [1927-sum-game](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1927-sum-game/) | Medium |
@@ -82,6 +83,7 @@
 | [0040-combination-sum-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0040-combination-sum-ii/) | Medium |
 | [0047-permutations-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0047-permutations-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0053-maximum-subarray/) | Medium |
+| [0079-word-search](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0090-subsets-ii/) | Medium |
@@ -243,6 +245,7 @@
 | [0039-combination-sum](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0040-combination-sum-ii/) | Medium |
 | [0047-permutations-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0047-permutations-ii/) | Medium |
+| [0079-word-search](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0216-combination-sum-iii/) | Medium |
@@ -250,6 +253,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0079-word-search/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -312,5 +316,6 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0079-word-search/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 <!---LeetCode Topics End-->
