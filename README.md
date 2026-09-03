@@ -27,6 +27,7 @@
 | [0043-multiply-strings](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0043-multiply-strings/) | Medium |
 | [0060-permutation-sequence](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0060-permutation-sequence/) | Hard |
 | [0067-add-binary](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0069-sqrtx/) | Easy |
 | [1406-stone-game-iii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1563-stone-game-v/) | Hard |
 | [1872-stone-game-viii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1872-stone-game-viii/) | Hard |
@@ -271,6 +272,7 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0069-sqrtx](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0069-sqrtx/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -320,4 +322,8 @@
 | ------- | ------- |
 | [0079-word-search](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0079-word-search/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
