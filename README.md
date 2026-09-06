@@ -61,6 +61,7 @@
 | [0065-valid-number](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0067-add-binary/) | Easy |
 | [0079-word-search](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0079-word-search/) | Medium |
+| [0115-distinct-subsequences](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [1154-day-of-the-year](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1154-day-of-the-year/) | Easy |
@@ -214,6 +215,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0053-maximum-subarray/) | Medium |
+| [0115-distinct-subsequences](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [1406-stone-game-iii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1406-stone-game-iii/) | Hard |
