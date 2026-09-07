@@ -64,6 +64,7 @@
 | [0115-distinct-subsequences](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1154-day-of-the-year](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1154-day-of-the-year/) | Easy |
 | [1927-sum-game](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1927-sum-game/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -218,6 +219,7 @@
 | [0115-distinct-subsequences](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1406-stone-game-iii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1563-stone-game-v/) | Hard |
 | [1872-stone-game-viii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1872-stone-game-viii/) | Hard |
