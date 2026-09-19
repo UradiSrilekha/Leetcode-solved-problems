@@ -34,6 +34,7 @@
 | [0836-rectangle-overlap](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0836-rectangle-overlap/) | Easy |
 | [1154-day-of-the-year](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1154-day-of-the-year/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1563-stone-game-v/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -384,4 +385,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 <!---LeetCode Topics End-->
