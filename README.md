@@ -81,6 +81,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3498-reverse-degree-of-a-string](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -276,6 +277,7 @@
 | [0043-multiply-strings](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0067-add-binary/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
