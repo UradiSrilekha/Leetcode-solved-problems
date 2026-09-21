@@ -103,6 +103,7 @@
 | [0040-combination-sum-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0040-combination-sum-ii/) | Medium |
 | [0047-permutations-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0047-permutations-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0053-maximum-subarray/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0088-merge-sorted-array/) | Easy |
@@ -320,6 +321,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0069-sqrtx/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -371,6 +373,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0079-word-search/) | Medium |
 | [0835-image-overlap](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0835-image-overlap/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
