@@ -46,6 +46,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -127,6 +128,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -394,4 +396,8 @@
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 <!---LeetCode Topics End-->
