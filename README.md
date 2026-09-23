@@ -112,6 +112,7 @@
 | [0090-subsets-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0090-subsets-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0216-combination-sum-iii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0216-combination-sum-iii/) | Medium |
+| [0455-assign-cookies](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0455-assign-cookies/) | Easy |
 | [0835-image-overlap](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0835-image-overlap/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -154,6 +155,7 @@
 | [0031-next-permutation](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0031-next-permutation/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0455-assign-cookies](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0455-assign-cookies/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
@@ -166,6 +168,7 @@
 | [0018-4sum](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0047-permutations-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0455-assign-cookies](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0455-assign-cookies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -234,6 +237,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0011-container-with-most-water/) | Medium |
+| [0455-assign-cookies](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0455-assign-cookies/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1927-sum-game/) | Medium |
@@ -405,4 +409,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
