@@ -78,6 +78,7 @@
 | [0079-word-search](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0079-word-search/) | Medium |
 | [0115-distinct-subsequences](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0856-score-of-parentheses/) | Medium |
@@ -338,6 +339,7 @@
 | [0090-subsets-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0216-combination-sum-iii/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Depth-First Search
@@ -349,6 +351,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
