@@ -145,6 +145,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1872-stone-game-viii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2029-stone-game-ix/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -201,6 +202,7 @@
 | [1096-brace-expansion-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [2089-find-target-indices-after-sorting-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -393,6 +395,7 @@
 | [0074-search-a-2d-matrix](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
