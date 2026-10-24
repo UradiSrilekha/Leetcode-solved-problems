@@ -48,6 +48,7 @@
 | [1872-stone-game-viii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2029-stone-game-ix/) | Medium |
+| [2409-count-days-spent-together](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2409-count-days-spent-together/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -99,6 +100,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1927-sum-game/) | Medium |
+| [2409-count-days-spent-together](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
