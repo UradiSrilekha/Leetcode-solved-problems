@@ -111,6 +111,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -173,6 +174,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3731-find-missing-elements/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -251,6 +253,7 @@
 | [0053-maximum-subarray](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -348,6 +351,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -391,6 +395,7 @@
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -498,6 +503,7 @@
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -514,6 +520,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -523,6 +530,7 @@
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
