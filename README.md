@@ -37,6 +37,7 @@
 | [0060-permutation-sequence](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0060-permutation-sequence/) | Hard |
 | [0067-add-binary](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0069-sqrtx/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0836-rectangle-overlap](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0836-rectangle-overlap/) | Easy |
 | [1154-day-of-the-year](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1154-day-of-the-year/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -137,6 +138,7 @@
 | [0090-subsets-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0090-subsets-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0216-combination-sum-iii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0216-combination-sum-iii/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0455-assign-cookies/) | Easy |
 | [0835-image-overlap](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1254-number-of-closed-islands/) | Medium |
