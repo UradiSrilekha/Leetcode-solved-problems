@@ -38,6 +38,7 @@
 | [0067-add-binary](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0069-sqrtx/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0836-rectangle-overlap](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0836-rectangle-overlap/) | Easy |
 | [1154-day-of-the-year](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1154-day-of-the-year/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -140,6 +141,7 @@
 | [0216-combination-sum-iii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0216-combination-sum-iii/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0835-image-overlap](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -215,6 +217,7 @@
 | [0047-permutations-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0047-permutations-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0455-assign-cookies](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
