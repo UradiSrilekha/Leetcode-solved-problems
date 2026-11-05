@@ -148,6 +148,7 @@
 | [0835-image-overlap](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -209,6 +210,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0455-assign-cookies](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0455-assign-cookies/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
@@ -224,6 +226,7 @@
 | [0455-assign-cookies](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0455-assign-cookies/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -434,6 +437,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
