@@ -160,6 +160,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1872-stone-game-viii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1872-stone-game-viii/) | Hard |
+| [1882-process-tasks-using-servers](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2029-stone-game-ix](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2029-stone-game-ix/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -277,6 +278,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1882-process-tasks-using-servers](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
