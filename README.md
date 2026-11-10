@@ -186,6 +186,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -367,6 +368,7 @@
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
