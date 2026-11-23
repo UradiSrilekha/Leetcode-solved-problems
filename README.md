@@ -45,6 +45,7 @@
 | [0836-rectangle-overlap](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/0836-rectangle-overlap/) | Easy |
 | [1154-day-of-the-year](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1154-day-of-the-year/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1563-stone-game-v/) | Hard |
@@ -157,6 +158,7 @@
 | [1254-number-of-closed-islands](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1406-stone-game-iii/) | Hard |
@@ -323,6 +325,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -631,4 +634,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/UradiSrilekha/Leetcode-solved-problems/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
